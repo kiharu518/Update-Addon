@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ua:limestone"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"S": {
+				"item": "ua:lime"
+			}
+		},
+		"pattern": [
+			"SS",
+			"SS"
+		],
+		"result": {
+			"item": "ua:limestone",
+			"count": 3
+		}
+	}
+}

@@ -1,0 +1,17 @@
+tile.ua:green_pole_planks.name=Green Pole Planks
+tile.ua:green_pole_log.name=Green Pole Log
+tile.ua:stripped_green_pole_log.name=Stripped Green Pole Log
+tile.ua:green_pole_wood.name=Green Pole Wood
+tile.ua:stripped_green_pole_wood.name=Stripped Green Pole Wood
+tile.ua:limestone.name=Limestone
+tile.ua:black_limestone.name=Black Limestone
+tile.ua:limestone_trapdoor.name=Limestone Trapdoor
+tile.ua:glass_trapdoor.name=Glass Trapdoor
+tile.ua:ultra_hard_glass.name=Ultra Hard Glass
+item.ua:lime=Lime
+item.ua:resin_sword=Resin Sword
+item.ua:wheat_dough=Wheat Dough
+tile.ua:cooking_table.name=Cooking Table
+item.ua:teriyaki_burger=Teriyaki Burger
+item.ua:milk_pumpkin_stew=Pumpkin Milk Stew
+item.ua:give_item=Give Item

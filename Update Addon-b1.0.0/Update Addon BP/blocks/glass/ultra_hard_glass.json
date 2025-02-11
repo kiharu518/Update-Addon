@@ -1,0 +1,35 @@
+{
+	"format_version": "1.21.40",
+	"minecraft:block": {
+		"description": {
+			"identifier": "ua:ultra_hard_glass",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.glass"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:geometry": "minecraft:geometry.full_block",
+			"minecraft:material_instances": {
+				"*": {
+					"render_method": "blend",
+					"texture": "ua_ultra_hard_glass"
+				}
+			},
+			"minecraft:light_dampening": 0,
+			"minecraft:light_emission": 0,
+			"minecraft:map_color": "#FFFFFF",
+			"minecraft:flammable": false,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 10
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 50
+			},
+			"tag:stone": {},
+			"tag:minecraft:is_pickaxe_item_destructible": {}
+		}
+	}
+}

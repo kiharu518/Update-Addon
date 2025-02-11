@@ -1,0 +1,36 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "ua:cooking_table"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"E": {
+				"item": "minecraft:cobblestone"
+			},
+			"R": {
+				"item": "iron_ingot"
+			},
+			"F": {
+				"item": "crafting_table"
+			}
+		},
+		"pattern": [
+			"ERE",
+			"EFE",
+			"ERE"
+		],
+		"unlock": [
+			{
+				"item": "minecraft:crafting_table"
+			}
+		],
+		"result": {
+			"count": 1,
+			"item": "ua:cooking_table"
+		}
+	}
+}

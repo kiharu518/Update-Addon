@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "ua:black_limestone"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "ua:limestone",
+		"output": "ua:black_limestone"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Update Addon",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"ua_green_pole_planks": {
+			"textures": "textures/blocks/green_pole/planks_green_pole"
+		},
+		"ua_green_pole_log_side": {
+			"textures": "textures/blocks/green_pole/log_green_pole"
+		},
+		"ua_green_pole_log_top": {
+			"textures": "textures/blocks/green_pole/log_green_pole_top"
+		},
+		"ua_stripped_green_pole_log_side": {
+			"textures": "textures/blocks/green_pole/stripped/stripped_green_pole_log"
+		},
+		"ua_stripped_green_pole_log_top": {
+			"textures": "textures/blocks/green_pole/stripped/stripped_green_pole_log_top"
+		},
+		"ua_limestone": {
+			"textures": "textures/blocks/limestone/limestone"
+		},
+		"ua_black_limestone": {
+			"textures": "textures/blocks/limestone/black_limestone"
+		},
+		"ua_limestone_trapdoor": {
+			"textures": "textures/blocks/limestone/limestone_trapdoor"
+		},
+		"ua_ultra_hard_glass": {
+			"textures": "textures/blocks/ultra_hard_glass"
+		},
+		"ua_cooking_table_up": {
+			"textures": "textures/blocks/cooking/cooking_table_top"
+		},
+		"ua_cooking_table_down": {
+			"textures": "textures/blocks/cooking/cooking_table_down"
+		}
+	}
+}
