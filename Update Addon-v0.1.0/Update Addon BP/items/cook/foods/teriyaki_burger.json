@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ua:teriyaki_burger",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.cookedFood"
+			}
+		},
+		"components": {
+			"minecraft:icon": "ua_teriyaki_burger",
+			"minecraft:food": {
+				"can_always_eat": false,
+				"nutrition": 11,
+				"saturation_modifier": 5
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:use_modifiers": {
+				"movement_modifier": 0.5,
+				"use_duration": 1.6
+			},
+			"minecraft:tags": {
+				"tags": [
+					"minecraft:is_food"
+				]
+			}
+		}
+	}
+}
